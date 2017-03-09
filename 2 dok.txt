@@ -1,6 +1,0 @@
-2 linijka w 2 doku
-w drugiej master
-//!Jestem Romek! - jak powonno byæ?//
-Jestem master!
-na koncu romek
-2 branch
