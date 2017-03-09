@@ -1,2 +1,3 @@
 2 linijka w 2 doku
-Jestem Romek
+//!Jestem Romek! - jak powonno byæ?//
+Jestem master!
