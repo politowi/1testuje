@@ -1,5 +1,6 @@
 2 linijka w 2 doku
 w drugiej master
-//!Jestem Romek! - jak powonno by�?//
+//!Jestem Romek! - jak powonno być?//
 Jestem master!
 na koncu romek
+coś dopiszmy
