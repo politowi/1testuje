@@ -4,3 +4,4 @@ w drugiej master
 Jestem master!
 na koncu romek
 2 branch
+nie potrzeba b
