@@ -1,3 +1,4 @@
+
 2 linijka w 2 doku
 w drugiej master
 //!Jestem Romek! - jak powonno byæ?//
